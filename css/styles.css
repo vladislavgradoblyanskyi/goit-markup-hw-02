@@ -1,5 +1,30 @@
 body{
-font-family: Roboto, sans-serif;
+font-family: 'Roboto', sans-serif;
 background-color: #ffffff;
 color: #434455;
+}
+.logo{
+font-family: 'Raleway',sans-serif;
+font-weight: 700px;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
+}
+.logo-text{
+color: #2e2f42;
+}
+.nav-list{
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+.nav-list a:hover{
+color: #404bbf;
+}
+
+.nav-list a:focus{
+color: #404bbf;
 }
