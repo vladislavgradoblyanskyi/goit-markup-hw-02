@@ -29,11 +29,36 @@ color: #404bbf;
 address{
 font-style: normal;
 }
-.mail{
+.address{
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
-.mail:hover, .mail:focus{
+.address:hover, .address:focus{
 color: #404bbf;
+}
+
+
+.top{
+background-color: #2e2f42;
+}
+.topic{
+font-size: 56px;
+line-height: 1.07;
+text-align: center;
+letter-spacing: 0.02em;
+color: #ffffff;
+}
+.button{
+background-color: #4d5ae5;
+font-family: 'Roborto',sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #ffffff;
+cursor: pointer;
+}
+.button:hover,.button:focus{
+background-color: #404BBF;
 }
